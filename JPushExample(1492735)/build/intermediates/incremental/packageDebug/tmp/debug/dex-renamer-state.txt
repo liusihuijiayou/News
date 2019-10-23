@@ -1,0 +1,4 @@
+#Wed Oct 23 22:45:35 CST 2019
+base.0=C\:\\Users\\LshyER\\Desktop\\APP\\BeijingNews\\JPushExample(1492735)\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
